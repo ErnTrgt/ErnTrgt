@@ -10,7 +10,7 @@
 
 ###
 
-<h2 align="center">erenturgut.com</h2>
+<h2 align="center"><a href="https://www.erenturgut.com">erenturgut.com</a></h2>
 
 ###
 
