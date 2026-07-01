@@ -31,22 +31,26 @@
 <!-- Frontend -->
 <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,tailwind,sass,html,css" />
 
-<br><br>
+<br>
 
 <!-- Backend -->
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,laravel" />
 
-<br><br>
+<br>
 
 <!-- 3D -->
 <img src="https://skillicons.dev/icons?i=threejs,blender" />
 
-<br><br>
+<br>
 
 <!-- Tools -->
 <img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,figma,npm" />
 
 </div>
+
+<br><br><br><br>
+
+  
 
 <div align="center">
 
@@ -79,9 +83,12 @@
 <img src="https://img.shields.io/badge/i18n-1F2937?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Responsive-1F2937?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Accessibility-1F2937?style=for-the-badge"/>
+<br><br>
 
 </div>
+
 ###
+
 ```text
            _                         _
        _==/          i     i          \==
