@@ -51,6 +51,7 @@
 </div>
 
 ###
+ <pre align="center">
            _                         _
        _==/          i     i          \==
      /XX/            |\___/|            \XX\
@@ -66,5 +67,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
        "\       "      \X/      "       /"
                         !
                      ERNTRGT
+</pre>
 
 ###
