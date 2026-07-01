@@ -26,79 +26,61 @@
 
 ###
 
-<div align="left">
+<div align="center">
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="Sass" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
+<!-- Frontend -->
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,vue,tailwind,sass,html,css" />
 
-  <br><br>
+<br><br>
 
-  <!-- 3D -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="Three.js" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/pmndrs/react-three-fiber/master/docs/logo.svg" height="40" alt="React Three Fiber" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/blender/F5792A" height="40" alt="Blender" />
+<!-- Backend -->
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,laravel" />
 
-  <br><br>
+<br><br>
 
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
+<!-- 3D -->
+<img src="https://skillicons.dev/icons?i=threejs,blender" />
 
-  <br><br>
+<br><br>
 
-  <!-- AI -->
-  <img src="https://cdn.simpleicons.org/openai/FFFFFF" height="40" alt="OpenAI" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/anthropic/D4A373" height="40" alt="Anthropic" />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/vercel/FFFFFF" height="40" alt="Vercel AI SDK" />
-
-  <br><br>
-
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vitejs/vitejs-original.svg" height="40" alt="Vite" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="40" alt="Vercel" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
+<!-- Tools -->
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vite,vercel,figma,npm" />
 
 </div>
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/React%20Three%20Fiber-111827?style=for-the-badge&logo=three.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/WebGL-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GLSL%20Shaders-111827?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Framer%20Motion-111827?style=for-the-badge&logo=framer"/>
+<img src="https://img.shields.io/badge/GSAP-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Lenis-111827?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai"/>
+<img src="https://img.shields.io/badge/Anthropic-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=for-the-badge&logo=vercel"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tool%20Calling-0A66C2?style=for-the-badge"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/REST%20APIs-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/i18n-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Responsive-1F2937?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Accessibility-1F2937?style=for-the-badge"/>
+
+</div>
 ###
 ```text
            _                         _
