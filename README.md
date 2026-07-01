@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">I'm Eren Turgut from Konya/Turkey<br><br>- 📚 I'm currently learning React, TypeScript, ThreeJS and more...</p>
+<p align="left">Hi, I'm Eren, a web developer based in Konya, Türkiye. <br>
+I'm 24 and have spent the past +4 years building for the web, focused on fast, polished products. <br>
+My roots are in frontend (TypeScript, JavaScript, React, and Three.js for 3D and motion on the web), but I now work across the full stack and take on end-to-end projects, with hands-on backend experience: REST APIs, Node.js, Laravel and SQL/NoSQL databases.</p>
 
 ###
 
