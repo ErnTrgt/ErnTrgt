@@ -51,7 +51,7 @@
 </div>
 
 ###
- <pre align="center">
+```text
            _                         _
        _==/          i     i          \==
      /XX/            |\___/|            \XX\
@@ -67,6 +67,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
        "\       "      \X/      "       /"
                         !
                      ERNTRGT
-</pre>
+```
 
 ###
